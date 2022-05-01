@@ -1,5 +1,7 @@
 # TidSpotSync
 
+## NOTE: This branch is for 'sketching' out the planned project structure
+
 Application for syncing Tidal and Spotify playlists.
 
 ## Description
